@@ -4,7 +4,7 @@
 É uma das atividades do curso <b>DevClub</b>. Foram utilizados as ferramentas HTML, CSS e JavaScript. 
 <br>
 <br>
-Pode-se clicar <a href="https://pj-iphone.netlify.app">aqui</a> para acessar o projeto hospedado.
+Pode-se clicar <a href="https://pj-starbucks.netlify.app">aqui</a> para acessar o projeto hospedado.
 <br>
 <br>
 </p>
